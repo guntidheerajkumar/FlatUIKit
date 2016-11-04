@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{641C5383-7FBB-43D3-B953-51311323479F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlatUIKit/ApiDefinition.cs">
+    <Files>
+      <File FileName="Sample/ViewController.cs" Line="24" Column="42" />
+      <File FileName="FlatUIKit/ApiDefinition.cs" Line="543" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A6635EF-A4C6-4CDD-808F-84875B84764E" />
+</Properties>
